@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @victorroatt
 - 👀 I’m interested in learning how to program.
-- 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me victorroatt6@hotmail.com
+-- 📫 How to reach me victorroatt6@hotmail.com
+-- Check my portfolio in victorrefosco.com
 
 <!---
 victorroatt/victorroatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
