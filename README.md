@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorroatt
 - 👀 I’m interested in learning how to program.
 -- 📫 How to reach me victorroatt6@hotmail.com
-- Check my portfolio in victorrefosco.com
+- Check my portfolio in [victorrefosco.com](victorrefosco.com)
 
 <!---
 victorroatt/victorroatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
