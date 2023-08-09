@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorroatt
 - 👀 I’m interested in learning how to program.
-- 📫 How to reach me victorroatt6@hotmail.com
+- 📫 How to reach me victorrefosco@outlook.com
 - Check my portfolio in [victorrefosco.com](https://www.victorrefosco.com)
 
 <!---
